@@ -1,5 +1,5 @@
 ---
-title: "ABriefHistoryOfMoney"
+title: "A Brief History Of Money"
 date: 2022-11-22T14:30:44+05:30
 draft: false
 ---
