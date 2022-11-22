@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://theblockonomist.github.io/posts/abriefhistoryofmoney/</loc>
+    <lastmod>2022-11-22T19:30:44+05:30</lastmod>
+  </url><url>
+    <loc>https://theblockonomist.github.io/tags/dollar/</loc>
+    <lastmod>2022-11-22T19:30:44+05:30</lastmod>
+  </url><url>
+    <loc>https://theblockonomist.github.io/tags/gold/</loc>
+    <lastmod>2022-11-22T19:30:44+05:30</lastmod>
+  </url><url>
+    <loc>https://theblockonomist.github.io/tags/gold-standard/</loc>
+    <lastmod>2022-11-22T19:30:44+05:30</lastmod>
+  </url><url>
+    <loc>https://theblockonomist.github.io/tags/money/</loc>
+    <lastmod>2022-11-22T19:30:44+05:30</lastmod>
+  </url><url>
+    <loc>https://theblockonomist.github.io/posts/</loc>
+    <lastmod>2022-11-22T19:30:44+05:30</lastmod>
+  </url><url>
+    <loc>https://theblockonomist.github.io/tags/</loc>
+    <lastmod>2022-11-22T19:30:44+05:30</lastmod>
+  </url><url>
+    <loc>https://theblockonomist.github.io/</loc>
+    <lastmod>2022-11-22T19:30:44+05:30</lastmod>
+  </url><url>
     <loc>https://theblockonomist.github.io/archives/</loc>
   </url><url>
     <loc>https://theblockonomist.github.io/categories/</loc>
@@ -9,9 +33,5 @@
     <loc>https://theblockonomist.github.io/aboutus/</loc>
   </url><url>
     <loc>https://theblockonomist.github.io/search/</loc>
-  </url><url>
-    <loc>https://theblockonomist.github.io/tags/</loc>
-  </url><url>
-    <loc>https://theblockonomist.github.io/</loc>
   </url>
 </urlset>

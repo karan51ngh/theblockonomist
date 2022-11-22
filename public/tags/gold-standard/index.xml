@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on The Blockonomist</title>
-    <link>https://theblockonomist.github.io/posts/</link>
-    <description>Recent content in Posts on The Blockonomist</description>
+    <title>Gold Standard on The Blockonomist</title>
+    <link>https://theblockonomist.github.io/tags/gold-standard/</link>
+    <description>Recent content in Gold Standard on The Blockonomist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Nov 2022 19:30:44 +0530</lastBuildDate><atom:link href="https://theblockonomist.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Nov 2022 19:30:44 +0530</lastBuildDate><atom:link href="https://theblockonomist.github.io/tags/gold-standard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Brief History Of Money</title>
       <link>https://theblockonomist.github.io/posts/abriefhistoryofmoney/</link>
