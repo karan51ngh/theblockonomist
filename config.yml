@@ -1,0 +1,54 @@
+baseURL: "https://theblockonomist.github.io"
+languageCode: en-us
+title: "The Blockonomist"
+theme: PaperMod
+label:
+  icon: theblockonomistlogo.png
+menu:
+  main:
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 20
+    - identifier: aboutus
+      name: About
+      url: /aboutus/
+      weight: 10
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40 
+params:
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowCodeCopyButtons: true
+  defaultTheme: light
+  disableThemeToggle: false
+  profileMode:
+    enabled: true
+    title: The Blockonomist
+    subtitle: Everything Blockchain, Crypto and Freedom...
+    imageurl: theblockonomist.png
+    buttons:
+    - name: Go to Blog
+      url: /posts/
+  socialIcons: # optional
+      - name: LinkedIn
+        url: "https://www.linkedin.com/in/karan51ngh/"
+      - name: Twitter
+        url: "https://twitter.com/karan51ngh_tw"
+      - name: Reddit
+        url: "https://www.reddit.com/user/karan51ngh"
+      - name: Github
+        url: "https://github.com/karan51ngh"
+      - name: Telegram
+        url: "https://t.me/karan51ngh"
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
